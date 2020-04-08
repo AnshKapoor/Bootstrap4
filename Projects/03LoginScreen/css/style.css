@@ -1,4 +1,9 @@
 body{
-    background: url(../back.jpg) no-repeat center center fixed;
+    background: url(../images/back.jpg) no-repeat center center fixed;
     background-size: cover;
+}
+#img-logo{
+    max-width: 80px;
+    max-height: 90px;
+    margin: 0 auto;
 }
